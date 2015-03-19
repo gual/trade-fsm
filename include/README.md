@@ -1,0 +1,1 @@
+Used to store .hrl files that are to be included by other applications

@@ -1,0 +1,1 @@
+Used for executables that might have to interact with Erlang, such as specific drivers
